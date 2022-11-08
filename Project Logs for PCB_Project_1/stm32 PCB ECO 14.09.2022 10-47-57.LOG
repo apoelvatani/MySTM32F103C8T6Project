@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetB2_1 Pin=J5-5
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Pin From Net: NetName=NetB1_1 Pin=U4-32
+Added Pin To Net: NetName=NetB1_1 Pin=U4-46
+Added Room: Name=stm32

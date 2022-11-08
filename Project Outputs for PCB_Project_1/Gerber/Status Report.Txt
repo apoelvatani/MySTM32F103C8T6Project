@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project_1.PrjPcb]
+   Generated File[stm32.GTO]
+   Generated File[stm32.GTP]
+   Generated File[stm32.GTS]
+   Generated File[stm32.GTL]
+   Generated File[stm32.GBL]
+   Generated File[stm32.GBS]
+   Generated File[stm32.GBP]
+   Generated File[stm32.GBO]
+   Generated File[stm32.GKO]
+   Generated File[stm32.RUL]
+   Generated File[stm32.EXTREP]
+   Generated File[stm32.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 14:50:00 On 30.09.2022

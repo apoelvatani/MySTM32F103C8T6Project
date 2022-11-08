@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Change Component Designator: OldDesignator=3 NewDesignator=B2
+Change Component Description : Designator=C2 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C5 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C6 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C7 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C8 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C9 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C10 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C11 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C14 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C16 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C17 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C18 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C15 Old Description=2.2 nF c1206 New Description=CAP CER 2200PF 50V C0G/NP0 1206
+Change Component Description : Designator=R1 Old Description=4.7K R1206 New Description=CPF 1206 4R64 0.1% 25PPM 1K RL
+Change Component Description : Designator=R2 Old Description=4.7K R1206 New Description=CPF 1206 4R64 0.1% 25PPM 1K RL
+Change Component Description : Designator=Y1 Old Description=8 MHz 12.5 pf Osc New Description=CRYSTAL 8MHZ 12.5pF SMD TR RALTRON
+Change Component Description : Designator=R3 Old Description=10K R1206 New Description=RQ 0805 10R 0.1% 10PPM 1K RL
+Change Component Description : Designator=R4 Old Description=10K R1206 New Description=RQ 0805 10R 0.1% 10PPM 1K RL
+Change Component Description : Designator=R5 Old Description=10K R1206 New Description=RQ 0805 10R 0.1% 10PPM 1K RL
+Change Component Description : Designator=C3 Old Description=10 uF - Tantal New Description=CAP.TANTAL 10UF 20V 20% A CASE (3216)
+Change Component Description : Designator=C4 Old Description=10 uF - Tantal New Description=CAP.TANTAL 10UF 20V 20% A CASE (3216)
+Change Component Description : Designator=C12 Old Description=16 pF New Description=CAP CER 16PF 50V NP0 1206
+Change Component Description : Designator=C13 Old Description=16 pF New Description=CAP CER 16PF 50V NP0 1206
+Change Component Description : Designator=C1 Old Description=330 nF C1206 New Description=CAP CER 0.33UF 50V X7R 1206
+Change Component Description : Designator=U5 Old Description=BMP280 SENSOR New Description=SENSOR PRESSURE ABS
+Change Component Description : Designator=B1 Old Description=Buzzer 5v New Description=BUZZER MAGNETIC 5V 12MM TH
+Change Component Description : Designator=J5 Old Description=Header 2.54 1x5 New Description=FEMALE HEADER 5PIN(1x5) 2.54mm THT V/T TRAY
+Change Component Description : Designator=U1 Old Description=L7805 SV REGULATOR SMD PAKET New Description=IC REG LINEAR 5V 1.5A DPAK
+Change Component Description : Designator=U2 Old Description=LD1086 3.3V REGULATOR New Description=IC REG LINEAR 3.3V 1.5A DPAK
+Change Component Description : Designator=J1 Old Description=Micro SD Card Holder New Description=CONNECTOR MICRO SD CARD SMD KLS
+Change Component Description : Designator=U3 Old Description=MPU6050 GYRO New Description=IMU ACCEL/GYRO 3-AXIS I2C 24QFN
+Added Pin To Net: NetName=NetB2_1 Pin=U4-7
+Change Net Name : Old Net Name=NetB2_1 New Net Name=NRST
+Added Member To Class: ClassName=stm32 Member=Component B2 Push Button
+Added Room: Name=stm32

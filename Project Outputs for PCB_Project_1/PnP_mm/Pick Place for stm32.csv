@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\PCB_Project_1\Project Outputs for PCB_Project_1\Pick Place for stm32.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30.09.22
+Time:       14:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Variation"
+"J7","Header 2.54 1x3","TopLayer","Header_2.54_1x3","43.4000mm","7.2100mm","90","Header 2.54 1x3","Fitted"
+"Y1","8 MHz 12.5 pf Osc","TopLayer","8_MHZ_Osc.","17.3137mm","28.0663mm","270","CRYSTAL 8MHZ 12.5pF SMD TR RALTRON","Fitted"
+"U5","BMP280","TopLayer","BMP280","23.9125mm","8.3500mm","0","SENSOR PRESSURE ABS","Fitted"
+"U4","STM32F101","TopLayer","LQFP48-STM","23.6500mm","19.5250mm","0","IC MCU 32BIT 64KB FLASH 48LQFP","Fitted"
+"U3","MPU6050","TopLayer","QFN50P400X400X90_HS-25N","34.2000mm","14.4500mm","180","IMU ACCEL/GYRO 3-AXIS I2C 24QFN","Fitted"
+"U2","LD108633 DPAK","TopLayer","DPAK228P972X230-3N","22.7000mm","37.9500mm","90","IC REG LINEAR 3.3V 1.5A DPAK","Fitted"
+"U1","L7805-DPAK","TopLayer","DPAK228P972X230-3N","30.8050mm","38.0000mm","90","IC REG LINEAR 5V 1.5A DPAK","Fitted"
+"R5","10K R1206","BottomLayer","R1206_RESISTOR","10.1358mm","28.7712mm","90","RQ 0805 10R 0.1% 10PPM 1K RL","Fitted"
+"R4","10K R1206","TopLayer","R1206_RESISTOR","6.2288mm","31.4392mm","180","RQ 0805 10R 0.1% 10PPM 1K RL","Fitted"
+"R3","10K R1206","TopLayer","R1206_RESISTOR","25.1892mm","27.3962mm","90","RQ 0805 10R 0.1% 10PPM 1K RL","Fitted"
+"R2","4.7K R1206","TopLayer","R1206_RESISTOR","34.1608mm","7.8538mm","270","CPF 1206 4R64 0.1% 25PPM 1K RL","Fitted"
+"R1","4.7K R1206","BottomLayer","R1206_RESISTOR","37.5392mm","7.8788mm","270","CPF 1206 4R64 0.1% 25PPM 1K RL","Fitted"
+"J6","Header 2.54 1x4","TopLayer","Header_2.54_1x4","30.6700mm","2.0750mm","360","Header 2.54 1x4","Fitted"
+"J5","Header 2.54 1x5","TopLayer","Header_2.54_1x5","2.5000mm","31.1200mm","270","FEMALE HEADER 5PIN(1x5) 2.54mm THT V/T TRAY","Fitted"
+"J4","Klemens 1x2 3.5mm","TopLayer","Klemens_1x2_3.5mm","41.3500mm","40.3000mm","90","Klemens 1x2 3.5mm","Fitted"
+"J3","Klemens 1x2 3.5mm","TopLayer","Klemens_1x2_3.5mm","41.3500mm","30.8000mm","90","Klemens 1x2 3.5mm","Fitted"
+"J2","Header 2.54 1x4","TopLayer","Header_2.54_1x4","43.5000mm","18.9200mm","90","Header 2.54 1x4","Fitted"
+"J1","Micro SD Card Holder","TopLayer","MICRO_SD_CARD_HOLDER","9.3840mm","14.7753mm","0","CONNECTOR MICRO SD CARD SMD KLS","Fitted"
+"C18","0.1 uF C1206","BottomLayer","C1206","7.6750mm","28.0250mm","270","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C17","0.1 uF C1206","TopLayer","C1206","19.8500mm","4.4250mm","270","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C16","0.1 uF C1206","TopLayer","C1206","23.8000mm","4.3500mm","270","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C15","2.2 nF c1206","TopLayer","C1206","31.4000mm","7.8500mm","270","CAP CER 2200PF 50V C0G/NP0 1206","Fitted"
+"C14","0.1 uF C1206","TopLayer","C1206","33.5250mm","19.7000mm","90","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C13","16 pF","TopLayer","C1206","16.0000mm","23.6500mm","360","CAP CER 16PF 50V NP0 1206","Fitted"
+"C12","16 pF","TopLayer","C1206","14.2250mm","27.6750mm","270","CAP CER 16PF 50V NP0 1206","Fitted"
+"C11","0.1 uF C1206","BottomLayer","C1206","30.3000mm","16.6250mm","270","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C10","0.1 uF C1206","TopLayer","C1206","36.2750mm","19.7250mm","90","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C9","0.1 uF C1206","TopLayer","C1206","15.3250mm","31.3750mm","180","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C8","0.1 uF C1206","TopLayer","C1206","28.7250mm","11.6250mm","270","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C7","0.1 uF C1206","TopLayer","C1206","10.2000mm","23.3500mm","180","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C6","0.1 uF C1206","TopLayer","C1206","22.4250mm","27.4000mm","90","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C5","0.1 uF C1206","TopLayer","C1206","30.8000mm","23.1750mm","270","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C4","10 uF - Tantal","TopLayer","C1206_-_TANTAL","17.7244mm","39.7801mm","270","CAP.TANTAL 10UF 20V 20% A CASE (3216)","Fitted"
+"C3","10 uF - Tantal","TopLayer","C1206_-_TANTAL","22.5301mm","31.6757mm","180","CAP.TANTAL 10UF 20V 20% A CASE (3216)","Fitted"
+"C2","0.1 uF C1206","TopLayer","C1206","33.8000mm","31.6500mm","0","CAP CER 0.1UF 50V X7R 1206","Fitted"
+"C1","330 nF C1206","TopLayer","C1206","28.7500mm","31.6250mm","180","CAP CER 0.33UF 50V X7R 1206","Fitted"
+"B2","Push Button","TopLayer","PUSB_BUTTON-SMD","8.1000mm","27.3750mm","360","Smd Push Button","Fitted"
+"B1","Buzzer 5v","TopLayer","BUZZER_5V","10.0000mm","38.9500mm","0","BUZZER MAGNETIC 5V 12MM TH","Fitted"

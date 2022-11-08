@@ -1,0 +1,220 @@
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Change Component Designator: OldDesignator=3 NewDesignator=B2
+Change Component Description : Designator=U4 Old Description= New Description=IC MCU 32BIT 64KB FLASH 48LQFP
+Change Component Description : Designator=C2 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C5 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C6 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C7 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C8 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C9 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C10 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C11 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C14 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C16 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C17 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C18 Old Description=0.1 uF C1206 New Description=CAP CER 0.1UF 50V X7R 1206
+Change Component Description : Designator=C15 Old Description=2.2 nF c1206 New Description=CAP CER 2200PF 50V C0G/NP0 1206
+Change Component Description : Designator=R1 Old Description=4.7K R1206 New Description=CPF 1206 4R64 0.1% 25PPM 1K RL
+Change Component Description : Designator=R2 Old Description=4.7K R1206 New Description=CPF 1206 4R64 0.1% 25PPM 1K RL
+Change Component Description : Designator=Y1 Old Description=8 MHz 12.5 pf Osc New Description=CRYSTAL 8MHZ 12.5pF SMD TR RALTRON
+Change Component Description : Designator=R3 Old Description=10K R1206 New Description=RQ 0805 10R 0.1% 10PPM 1K RL
+Change Component Description : Designator=R4 Old Description=10K R1206 New Description=RQ 0805 10R 0.1% 10PPM 1K RL
+Change Component Description : Designator=R5 Old Description=10K R1206 New Description=RQ 0805 10R 0.1% 10PPM 1K RL
+Change Component Description : Designator=C3 Old Description=10 uF - Tantal New Description=CAP.TANTAL 10UF 20V 20% A CASE (3216)
+Change Component Description : Designator=C4 Old Description=10 uF - Tantal New Description=CAP.TANTAL 10UF 20V 20% A CASE (3216)
+Change Component Description : Designator=C12 Old Description=16 pF New Description=CAP CER 16PF 50V NP0 1206
+Change Component Description : Designator=C13 Old Description=16 pF New Description=CAP CER 16PF 50V NP0 1206
+Change Component Description : Designator=C1 Old Description=330 nF C1206 New Description=CAP CER 0.33UF 50V X7R 1206
+Change Component Description : Designator=U5 Old Description=BMP280 SENSOR New Description=SENSOR PRESSURE ABS
+Change Component Description : Designator=B1 Old Description=Buzzer 5v New Description=BUZZER MAGNETIC 5V 12MM TH
+Change Component Description : Designator=J5 Old Description=Header 2.54 1x5 New Description=FEMALE HEADER 5PIN(1x5) 2.54mm THT V/T TRAY
+Change Component Description : Designator=U1 Old Description=L7805 SV REGULATOR SMD PAKET New Description=IC REG LINEAR 5V 1.5A DPAK
+Change Component Description : Designator=U2 Old Description=LD1086 3.3V REGULATOR New Description=IC REG LINEAR 3.3V 1.5A DPAK
+Change Component Description : Designator=J1 Old Description=Micro SD Card Holder New Description=CONNECTOR MICRO SD CARD SMD KLS
+Change Component Description : Designator=U3 Old Description=MPU6050 GYRO New Description=IMU ACCEL/GYRO 3-AXIS I2C 24QFN
+Change component parameters: Designator = "B1" ("B1"); Footprint = "BUZZER 5V"; UniqueID = "\ZIJZGUWR" ("\ZIJZGUWR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-30°C ~ 70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "102-1124-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.87"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MICRO SD CARD HOLDER"; UniqueID = "\ZVFUMGTN" ("\ZVFUMGTN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KLS ELECTRONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-25°C~+90°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "KLS1-TF-003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.30"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "Header 2.54 1x5"; UniqueID = "\KNSCRLNZ" ("\KNSCRLNZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KLS ELECTRONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-45°C~+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "KLS1-208-1-05-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.04"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "DPAK228P972X230-3N"; UniqueID = "\WJIBXPNO" ("\WJIBXPNO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "0°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "497-7255-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.20"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "DPAK228P972X230-3N"; UniqueID = "\TYSVLRUG" ("\TYSVLRUG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C~+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "497-3446-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.59"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "QFN50P400X400X90_HS-25N"; UniqueID = "\SUGSLKTO" ("\SUGSLKTO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1428-1007-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$9.11"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "LQFP48-STM"; UniqueID = "\VOHOMBCL" ("\VOHOMBCL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "497-6063-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$7.64"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "BMP280"; UniqueID = "\JKWZVTGW" ("\JKWZVTGW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "828-1064-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$3.74"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "8 MHZ Osc."; UniqueID = "\IVEQCDYN" ("\IVEQCDYN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RALTRON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C~+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RH100-8.000-12.5-20150-E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.56"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C1206"; UniqueID = "\YCVHGTDU" ("\YCVHGTDU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C334K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.66"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330 nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C1206"; UniqueID = "\HAIJLVTZ" ("\HAIJLVTZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C1206 - TANTAL"; UniqueID = "\GGSJHXLH" ("\GGSJHXLH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C~+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-5152-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C1206 - TANTAL"; UniqueID = "\BLSVSQZV" ("\BLSVSQZV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C~+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-5152-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C1206"; UniqueID = "\VLTJUWZA" ("\VLTJUWZA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C1206"; UniqueID = "\NTOBCAWG" ("\NTOBCAWG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C1206"; UniqueID = "\YWKCNFLA" ("\YWKCNFLA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C1206"; UniqueID = "\ZPJLDLYT" ("\ZPJLDLYT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C1206"; UniqueID = "\FMLYESCJ" ("\FMLYESCJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C1206"; UniqueID = "\MDNVXCZF" ("\MDNVXCZF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C1206"; UniqueID = "\QUEDQNPC" ("\QUEDQNPC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C1206"; UniqueID = "\PXYMTRLL" ("\PXYMTRLL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-17465-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.41"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "16 pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C1206"; UniqueID = "\NFYYNWHT" ("\NFYYNWHT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-17465-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.41"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "16 pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "C1206"; UniqueID = "\ZOUAVMXE" ("\ZOUAVMXE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C1206"; UniqueID = "\KEERAWXB" ("\KEERAWXB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "399-C1206C222G5GAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C1206"; UniqueID = "\CUFLENAU" ("\CUFLENAU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "C1206"; UniqueID = "\GRBOFSZM" ("\GRBOFSZM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C1206"; UniqueID = "\GIVZTRJM" ("\GIVZTRJM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "399-C1206C104K5RAC7800TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R1206 RESISTOR"; UniqueID = "\KSCSDKFJ" ("\KSCSDKFJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1712-CPF1206B4R64E1TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R1206 RESISTOR"; UniqueID = "\VZEIQTIP" ("\VZEIQTIP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1712-CPF1206B4R64E1TR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$0.78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R1206 RESISTOR"; UniqueID = "\VZAYWECJ" ("\VZAYWECJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "1712-RQ73C2A10RBTDFTR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R1206 RESISTOR"; UniqueID = "\DPRQLUUW" ("\DPRQLUUW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1712-RQ73C2A10RBTDFTR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R1206 RESISTOR"; UniqueID = "\QSEWUHZF" ("\QSEWUHZF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1712-RQ73C2A10RBTDFTR-ND - Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$1.14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB2_1 Pin=U4-7
+Change Net Name : Old Net Name=NetB2_1 New Net Name=NRST
+Added Room: Name=stm32

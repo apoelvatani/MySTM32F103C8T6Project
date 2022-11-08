@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\PCB_Project_1\Project Outputs for PCB_Project_1\Pick Place for stm32.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30.09.22
+Time:       15:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer       Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                   Variation 
+J7         "Header 2.54 1x3"      TopLayer    Header_2.54_1x3         1708.662mil   283.858mil    90       "Header 2.54 1x3"                             Fitted    
+Y1         "8 MHz 12.5 pf Osc"    TopLayer    8_MHZ_Osc.              681.642mil    1104.972mil   270      "CRYSTAL 8MHZ 12.5pF SMD TR RALTRON"          Fitted    
+U5         BMP280                 TopLayer    BMP280                  941.437mil    328.740mil    0        "SENSOR PRESSURE ABS"                         Fitted    
+U4         STM32F101              TopLayer    LQFP48-STM              931.103mil    768.701mil    0        "IC MCU 32BIT 64KB FLASH 48LQFP"              Fitted    
+U3         MPU6050                TopLayer    QFN50P400X400X90_HS-25N 1346.457mil   568.898mil    180      "IMU ACCEL/GYRO 3-AXIS I2C 24QFN"             Fitted    
+U2         "LD108633 DPAK"        TopLayer    DPAK228P972X230-3N      893.701mil    1494.094mil   90       "IC REG LINEAR 3.3V 1.5A DPAK"                Fitted    
+U1         L7805-DPAK             TopLayer    DPAK228P972X230-3N      1212.795mil   1496.063mil   90       "IC REG LINEAR 5V 1.5A DPAK"                  Fitted    
+R5         "10K R1206"            BottomLayer R1206_RESISTOR          399.047mil    1132.726mil   90       "RQ 0805 10R 0.1% 10PPM 1K RL"                Fitted    
+R4         "10K R1206"            TopLayer    R1206_RESISTOR          245.227mil    1237.764mil   180      "RQ 0805 10R 0.1% 10PPM 1K RL"                Fitted    
+R3         "10K R1206"            TopLayer    R1206_RESISTOR          991.701mil    1078.592mil   90       "RQ 0805 10R 0.1% 10PPM 1K RL"                Fitted    
+R2         "4.7K R1206"           TopLayer    R1206_RESISTOR          1344.914mil   309.204mil    270      "CPF 1206 4R64 0.1% 25PPM 1K RL"              Fitted    
+R1         "4.7K R1206"           BottomLayer R1206_RESISTOR          1477.922mil   310.188mil    270      "CPF 1206 4R64 0.1% 25PPM 1K RL"              Fitted    
+J6         "Header 2.54 1x4"      TopLayer    Header_2.54_1x4         1207.480mil   81.693mil     360      "Header 2.54 1x4"                             Fitted    
+J5         "Header 2.54 1x5"      TopLayer    Header_2.54_1x5         98.425mil     1225.197mil   270      "FEMALE HEADER 5PIN(1x5) 2.54mm THT V/T TRAY" Fitted    
+J4         "Klemens 1x2 3.5mm"    TopLayer    Klemens_1x2_3.5mm       1627.953mil   1586.614mil   90       "Klemens 1x2 3.5mm"                           Fitted    
+J3         "Klemens 1x2 3.5mm"    TopLayer    Klemens_1x2_3.5mm       1627.953mil   1212.599mil   90       "Klemens 1x2 3.5mm"                           Fitted    
+J2         "Header 2.54 1x4"      TopLayer    Header_2.54_1x4         1712.599mil   744.882mil    90       "Header 2.54 1x4"                             Fitted    
+J1         "Micro SD Card Holder" TopLayer    MICRO_SD_CARD_HOLDER    369.449mil    581.703mil    0        "CONNECTOR MICRO SD CARD SMD KLS"             Fitted    
+C18        "0.1 uF C1206"         BottomLayer C1206                   302.166mil    1103.347mil   270      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C17        "0.1 uF C1206"         TopLayer    C1206                   781.496mil    174.213mil    270      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C16        "0.1 uF C1206"         TopLayer    C1206                   937.008mil    171.260mil    270      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C15        "2.2 nF c1206"         TopLayer    C1206                   1236.221mil   309.055mil    270      "CAP CER 2200PF 50V C0G/NP0 1206"             Fitted    
+C14        "0.1 uF C1206"         TopLayer    C1206                   1319.882mil   775.591mil    90       "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C13        "16 pF"                TopLayer    C1206                   629.922mil    931.102mil    360      "CAP CER 16PF 50V NP0 1206"                   Fitted    
+C12        "16 pF"                TopLayer    C1206                   560.040mil    1089.567mil   270      "CAP CER 16PF 50V NP0 1206"                   Fitted    
+C11        "0.1 uF C1206"         BottomLayer C1206                   1192.914mil   654.528mil    270      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C10        "0.1 uF C1206"         TopLayer    C1206                   1428.150mil   776.575mil    90       "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C9         "0.1 uF C1206"         TopLayer    C1206                   603.347mil    1235.236mil   180      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C8         "0.1 uF C1206"         TopLayer    C1206                   1130.906mil   457.677mil    270      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C7         "0.1 uF C1206"         TopLayer    C1206                   401.575mil    919.292mil    180      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C6         "0.1 uF C1206"         TopLayer    C1206                   882.874mil    1078.740mil   90       "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C5         "0.1 uF C1206"         TopLayer    C1206                   1212.599mil   912.402mil    270      "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C4         "10 uF - Tantal"       TopLayer    C1206_-_TANTAL          697.809mil    1566.144mil   270      "CAP.TANTAL 10UF 20V 20% A CASE (3216)"       Fitted    
+C3         "10 uF - Tantal"       TopLayer    C1206_-_TANTAL          887.010mil    1247.073mil   180      "CAP.TANTAL 10UF 20V 20% A CASE (3216)"       Fitted    
+C2         "0.1 uF C1206"         TopLayer    C1206                   1330.709mil   1246.063mil   0        "CAP CER 0.1UF 50V X7R 1206"                  Fitted    
+C1         "330 nF C1206"         TopLayer    C1206                   1131.890mil   1245.079mil   180      "CAP CER 0.33UF 50V X7R 1206"                 Fitted    
+B2         "Push Button"          TopLayer    PUSB_BUTTON-SMD         318.898mil    1077.756mil   360      "Smd Push Button"                             Fitted    
+B1         "Buzzer 5v"            TopLayer    BUZZER_5V               393.701mil    1533.465mil   0        "BUZZER MAGNETIC 5V 12MM TH"                  Fitted    
